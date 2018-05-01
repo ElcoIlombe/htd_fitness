@@ -180,6 +180,16 @@ nav a:hover {
 .galerie_hero h1{
   font-size: 5em;
 }
+
+/* Contact Page */
+
+.contact_hero {
+  background: url('../img/contact_bg.jpeg') no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+
 /* Footer */
 
 footer {

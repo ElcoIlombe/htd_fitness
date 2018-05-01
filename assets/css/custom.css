@@ -177,10 +177,17 @@ nav a:hover {
 
   height: 100%;
 }
-.galerie_hero h1{
+.contact_hero h1{
   font-size: 5em;
 }
+.contact_hero .container{
+  color: white;
 
+  height: 100%;
+}
+.contact_hero h1{
+  font-size: 5em;
+}
 /* Contact Page */
 
 .contact_hero {

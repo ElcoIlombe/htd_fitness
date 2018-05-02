@@ -205,4 +205,25 @@ footer {
   color: white;
 }
 
+/* Responsive */
 
+@media screen and (max-width: 768px)
+{
+  .avantages_bg1, .avantages_bg2, .avantages_bg3 {
+    padding: 15vw;
+  }
+  .team .row .col-md-6 p {
+    background: rgba(255,255,255,0.5);
+    padding: 15px;
+  }
+  .btl {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 983px)
+{
+  .btl {
+    display: none;
+  }
+}
